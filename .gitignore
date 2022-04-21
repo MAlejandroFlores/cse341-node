@@ -1,1 +1,6 @@
 node_modules
+.DS_Store
+app.js
+logger.js
+my_static_file_server.js
+package-lock.json
